@@ -7,7 +7,7 @@
   "author": "Cody Jackson <codyjackson@librem.one>",
   "license": "MIT",
   "config": {
-    "serviceURL": "https://home.classdojo.com/#/login",
+    "serviceURL": "https://home.classdojo.com",
     "message": "",
     "popup": [],
     "hasNotificationSound": true,
