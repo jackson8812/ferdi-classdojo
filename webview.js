@@ -1,3 +1,4 @@
+//Standard webview.js for Ferdi
 "use strict";
 
 var _path = _interopRequireDefault(require("path"));
