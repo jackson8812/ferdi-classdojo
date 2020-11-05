@@ -1,0 +1,23 @@
+{
+  "id": "classdojo",
+  "name": "ClassDojo",
+  "version": ".01",
+  "description": "ClassDojo",
+  "main": "index.js",
+  "author": "Cody Jackson <codyjackson@librem.one>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://home.classdojo.com/#/login",
+    "message": "",
+    "popup": [],
+    "hasNotificationSound": true,
+    "hasDirectMessages": true,
+    "hasIndirectMessages": false,
+    "hasTeamID": false,
+    "hasPredefinedUrl": true,
+    "hasCustomUrl": false,
+    "webviewOptions": {
+      "disablewebsecurity": ""
+    }
+  }
+
